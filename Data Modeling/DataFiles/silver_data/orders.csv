@@ -1,0 +1,4 @@
+order_id,customer_id,order_date,order_status,payment_id,order_total
+501,C001,2024-04-01,Completed,401,1079.98
+502,C002,2024-04-02,Completed,402,899.99
+503,C003,2024-04-03,Pending,403,79.99

@@ -1,0 +1,4 @@
+product_id,product_name,subcategory_id,brand_id,unit_price,is_active
+301,iPhone 15,11,201,999.99,True
+302,Galaxy S24,11,202,899.99,True
+303,Nike Hoodie,13,203,79.99,True

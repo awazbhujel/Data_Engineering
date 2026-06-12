@@ -1,0 +1,4 @@
+customer_id,first_name,email,city,registration_date,last_updated_ts
+C001,john,john.smith@gmail.com,chicago,10-Jan-2024,2024-02-01 09:30:00
+C002,alice,alice123@gmail.com,boston,11-Jan-2024,2024-02-01 10:45:00
+C006,emma,emma.thomas@gmail.com,san francisco,01-Feb-2024,2024-02-01 11:15:00

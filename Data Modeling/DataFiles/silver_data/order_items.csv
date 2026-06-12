@@ -1,0 +1,4 @@
+order_item_id,order_id,product_id,quantity,unit_price,discount_amount,line_total
+601,501,301,1,999.99,20.0,979.99
+602,501,303,1,79.99,0.0,79.99
+603,502,302,1,899.99,0.0,899.99
